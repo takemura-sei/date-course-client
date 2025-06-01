@@ -10,8 +10,10 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.1",
     "nuxt": "^3.17.4",
     "vue": "^3.5.15",
-    "vue-router": "^4.5.1"
+    "vue-router": "^4.5.1",
+    "ws": "^8.18.2"
   }
 }
